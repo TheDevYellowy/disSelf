@@ -1,5 +1,5 @@
 const handlers = Object.fromEntries([
-    ['READY', import('./READY.ts')]
-])
+  ["READY", import("./READY.ts")],
+]);
 
-export { handlers }
+export { handlers };

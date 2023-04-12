@@ -1,5 +1,4 @@
-const e = async (client, {d: data}, shard) => {
-
-}
+const e = async (client, { d: data }, shard) => {
+};
 
 export default e;
